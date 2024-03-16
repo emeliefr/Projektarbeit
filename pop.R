@@ -8,6 +8,7 @@ ufo_sightings <- read.csv("/Users/emeliefroehlich/Downloads/places.csv")
 bigfoot_sightings <- read.csv("/Users/emeliefroehlich/Downloads/bfro_locations.csv")
 
 -----------
+#use of chatgpt
 
 names(usa_states)[5] <- "STATE"
 
